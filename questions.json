@@ -1,0 +1,102 @@
+[
+{
+"q": "Which fruit is commonly known as the 'King of Fruits'?",
+"options": ["Banana", "Durian", "Mango", "Pineapple"],
+"answer": 2
+},
+{
+"q": "Which vegetable is rich in vitamin A and helps improve eyesight?",
+"options": ["Potato", "Cabbage", "Carrot", "Onion"],
+"answer": 2
+},
+{
+"q": "Which fruit is mainly used to make wine?",
+"options": ["Papaya", "Grape", "Orange", "Apple"],
+"answer": 1
+},
+{
+"q": "Which vegetable grows underground?",
+"options": ["Tomato", "Cucumber", "Potato", "Brinjal"],
+"answer": 2
+},
+{
+"q": "Which fruit contains a large amount of potassium?",
+"options": ["Guava", "Pineapple", "Banana", "Mango"],
+"answer": 2
+},
+{
+"q": "Which vegetable belongs to the cabbage family?",
+"options": ["Pumpkin", "Broccoli", "Okra", "Carrot"],
+"answer": 1
+},
+{
+"q": "Which fruit is known for its high vitamin C content?",
+"options": ["Banana", "Papaya", "Orange", "Watermelon"],
+"answer": 2
+},
+{
+"q": "Which vegetable is commonly used in salads and sandwiches?",
+"options": ["Pumpkin", "Garlic", "Potato", "Lettuce"],
+"answer": 3
+},
+{
+"q": "Which fruit has seeds on the outside?",
+"options": ["Apple", "Mango", "Strawberry", "Orange"],
+"answer": 2
+},
+{
+"q": "Which vegetable is known as 'Lady's Finger'?",
+"options": ["Beans", "Spinach", "Okra", "Peas"],
+"answer": 2
+},
+{
+"q": "Which fruit is commonly used to make jam?",
+"options": ["Cucumber", "Onion", "Strawberry", "Pumpkin"],
+"answer": 2
+},
+{
+"q": "Which vegetable is rich in iron and good for blood health?",
+"options": ["Cabbage", "Spinach", "Turnip", "Pumpkin"],
+"answer": 1
+},
+{
+"q": "Which fruit is yellow when ripe and grows in bunches?",
+"options": ["Papaya", "Guava", "Mango", "Banana"],
+"answer": 3
+},
+{
+"q": "Which vegetable is used to make french fries?",
+"options": ["Radish", "Potato", "Cabbage", "Carrot"],
+"answer": 1
+},
+{
+"q": "Which fruit has a hard outer shell and sweet water inside?",
+"options": ["Orange", "Coconut", "Apple", "Peach"],
+"answer": 1
+},
+{
+"q": "Which vegetable is commonly used in soups and stews?",
+"options": ["Papaya", "Carrot", "Mango", "Banana"],
+"answer": 1
+},
+{
+"q": "Which fruit is green outside and red inside with many black seeds?",
+"options": ["Guava", "Pear", "Watermelon", "Avocado"],
+"answer": 2
+},
+{
+"q": "Which vegetable is long, green, and used in salads?",
+"options": ["Pumpkin", "Onion", "Cucumber", "Potato"],
+"answer": 2
+},
+{
+"q": "Which fruit is often called a tropical fruit and is very sweet?",
+"options": ["Apple", "Pineapple", "Pear", "Peach"],
+"answer": 1
+},
+{
+"q": "Which vegetable is commonly used to make ketchup?",
+"options": ["Carrot", "Beetroot", "Cabbage", "Tomato"],
+"answer": 3
+}
+]
